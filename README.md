@@ -7,7 +7,7 @@ Based on seed project `spring-team:spring-rest-seed`
 
 This project is driven using [Maven][mvn].
 
-[mvn]: https://maven.apache.org/
+[mvn]: https://maven.apache.org/ 
 
 ### Run locally
 
